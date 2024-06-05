@@ -1,0 +1,98 @@
+
+.header-container {
+    background-color: skyblue;
+    color: white;
+}
+
+
+.navbar {
+    color: black;
+}
+
+.slider {
+    /* image */
+    background-image: url(assets/waterBG.jpeg);
+    background-size: cover;
+    background-position: center;
+    height:50vh;
+
+    /* text */
+    color: black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+.services-container{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    
+}
+
+.experts-container{
+    padding-top: 50px;
+    padding-bottom: 120px;
+    
+}
+
+.expert-card{
+    height: auto;
+}
+
+
+.contact-slider{
+
+    height:20vh;
+
+      /* text */
+      color: black;
+      display:flex;
+      text-align: center;
+      justify-content: center;
+      align-items:center;
+
+}
+
+.button{
+
+  padding: 10px 28px; 
+  background-color:skyblue;
+  border-radius: 10px; 
+  box-shadow: 0 0 25px white;
+  color: white;
+
+}    
+
+
+
+.rounded-circle-img{
+    width: 250px; 
+    height: 250px; 
+    object-fit: cover;
+    border-radius: 50%; 
+    margin: auto;
+  
+    
+}
+
+
+.footer-container {
+    background-color: skyblue;
+    color: white;
+    padding: 15px 0; /* Reduced padding */
+
+    bottom: 0;
+    position:relative;
+    width: 100%;
+
+}
+.footer-logo{
+    margin: 20px;
+
+}
