@@ -1,6 +1,3 @@
-
-
-
 function updateServiceDropdown(selectedOption) {
     document.getElementById("dropdownMenuButton1").innerText = selectedOption;
 }

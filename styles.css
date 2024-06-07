@@ -1,4 +1,7 @@
 
+*{
+    font-family: 'Garamond', sans-serif;
+}
 .header-container {
     background-color: skyblue;
     color: white;
@@ -118,6 +121,8 @@
 .FAQ-container{
     margin-top: 100px;
     margin-bottom: 100px;
+    padding: 40px 60px;
+    background-color: lightgrey;
 }
 
 
@@ -130,6 +135,10 @@
 .contact-container{
     margin-top: 100px;
     margin-bottom: 100px;
+
+ 
+    padding: 40px 60px;
+    background-color: lightgrey;
 
 }
 
