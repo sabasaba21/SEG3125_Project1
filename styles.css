@@ -12,6 +12,9 @@
     color: black;
 }
 
+.logo{
+    padding: 20px 20px;
+}
 .slider {
     /* image */
     background-image: url(assets/waterBG.jpeg);
