@@ -41,6 +41,15 @@
     
 }
 
+
+.book-container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 40px 60px;
+    background-color: lightgrey;
+}
+
+
 .expert-card{
     height: auto;
 }
@@ -80,6 +89,15 @@
   
     
 }
+.radio-img{
+    width: 50px; /* Adjust as needed */
+    height: 50px;
+    object-fit: cover;
+}
+
+.doctor-list{
+    display: block;
+}
 
 
 .footer-container {
@@ -95,4 +113,27 @@
 .footer-logo{
     margin: 20px;
 
+}
+
+.FAQ-container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+.accordion-button{
+    margin-top: 10px;
+    /* margin-bottom: 20px; */
+   font-size: 20px;
+}
+
+.contact-container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+
+.contact-button {
+    margin-top: 50px;
 }
